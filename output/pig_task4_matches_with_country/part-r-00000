@@ -1,0 +1,760 @@
+2024-08-15,Betis,Girona,1,1,Spain
+2024-08-15,Ath Bilbao,Getafe,1,1,Spain
+2024-08-16,Celta,Alaves,2,1,Spain
+2024-08-16,Las Palmas,Sevilla,2,2,Spain
+2024-08-16,Man United,Fulham,1,0,England
+2024-08-17,Newcastle,Southampton,1,0,England
+2024-08-17,Valencia,Barcelona,1,2,Spain
+2024-08-17,West Ham,Aston Villa,1,2,England
+2024-08-17,Arsenal,Wolves,2,0,England
+2024-08-17,Everton,Brighton,0,3,England
+2024-08-17,Osasuna,Leganes,1,1,Spain
+2024-08-17,Nott'm Forest,Bournemouth,1,1,England
+2024-08-17,Ipswich,Liverpool,0,2,England
+2024-08-18,Sociedad,Vallecano,1,2,Spain
+2024-08-18,Chelsea,Man City,0,2,England
+2024-08-18,Mallorca,Real Madrid,1,1,Spain
+2024-08-18,Brentford,Crystal Palace,2,1,England
+2024-08-19,Valladolid,Espanol,1,0,Spain
+2024-08-19,Villarreal,Ath Madrid,2,2,Spain
+2024-08-19,Leicester,Tottenham,1,1,England
+2024-08-23,Sevilla,Villarreal,1,2,Spain
+2024-08-23,Celta,Valencia,3,1,Spain
+2024-08-24,Fulham,Leicester,2,1,England
+2024-08-24,Southampton,Nott'm Forest,0,1,England
+2024-08-24,Brighton,Man United,2,1,England
+2024-08-24,Osasuna,Mallorca,1,0,Spain
+2024-08-24,Crystal Palace,West Ham,0,2,England
+2024-08-24,Aston Villa,Arsenal,0,2,England
+2024-08-24,Getafe,Vallecano,0,0,Spain
+2024-08-24,Man City,Ipswich,4,1,England
+2024-08-24,Tottenham,Everton,4,0,England
+2024-08-24,Espanol,Sociedad,0,1,Spain
+2024-08-24,Barcelona,Ath Bilbao,2,1,Spain
+2024-08-25,Wolves,Chelsea,2,6,England
+2024-08-25,Ath Madrid,Girona,3,0,Spain
+2024-08-25,Leganes,Las Palmas,2,1,Spain
+2024-08-25,Real Madrid,Valladolid,3,0,Spain
+2024-08-25,Liverpool,Brentford,2,0,England
+2024-08-25,Bournemouth,Newcastle,1,1,England
+2024-08-25,Alaves,Betis,0,0,Spain
+2024-08-26,Villarreal,Celta,4,3,Spain
+2024-08-27,Mallorca,Sevilla,0,0,Spain
+2024-08-27,Vallecano,Barcelona,1,2,Spain
+2024-08-28,Valladolid,Leganes,0,0,Spain
+2024-08-28,Ath Madrid,Espanol,0,0,Spain
+2024-08-28,Sociedad,Alaves,1,2,Spain
+2024-08-28,Ath Bilbao,Valencia,1,0,Spain
+2024-08-29,Girona,Osasuna,4,0,Spain
+2024-08-29,Las Palmas,Real Madrid,1,1,Spain
+2024-08-31,Arsenal,Brighton,1,1,England
+2024-08-31,Ath Bilbao,Ath Madrid,0,1,Spain
+2024-08-31,Valencia,Villarreal,1,1,Spain
+2024-08-31,Nott'm Forest,Wolves,1,1,England
+2024-08-31,Leganes,Mallorca,0,1,Spain
+2024-08-31,Leicester,Aston Villa,1,2,England
+2024-08-31,Ipswich,Fulham,1,1,England
+2024-08-31,Everton,Bournemouth,2,3,England
+2024-08-31,West Ham,Man City,1,3,England
+2024-08-31,Espanol,Vallecano,2,1,Spain
+2024-08-31,Brentford,Southampton,3,1,England
+2024-08-31,Barcelona,Valladolid,7,0,Spain
+2024-09-01,Chelsea,Crystal Palace,1,1,England
+2024-09-01,Alaves,Las Palmas,2,0,Spain
+2024-09-01,Osasuna,Celta,3,2,Spain
+2024-09-01,Man United,Liverpool,0,3,England
+2024-09-01,Sevilla,Girona,0,2,Spain
+2024-09-01,Getafe,Sociedad,0,0,Spain
+2024-09-01,Newcastle,Tottenham,2,1,England
+2024-09-01,Real Madrid,Betis,2,0,Spain
+2024-09-13,Betis,Leganes,2,0,Spain
+2024-09-14,Man City,Brentford,2,1,England
+2024-09-14,Crystal Palace,Leicester,2,2,England
+2024-09-14,Southampton,Man United,0,3,England
+2024-09-14,Fulham,West Ham,1,1,England
+2024-09-14,Liverpool,Nott'm Forest,0,1,England
+2024-09-14,Bournemouth,Chelsea,0,1,England
+2024-09-14,Aston Villa,Everton,3,2,England
+2024-09-14,Espanol,Alaves,3,2,Spain
+2024-09-14,Sevilla,Getafe,1,0,Spain
+2024-09-14,Sociedad,Real Madrid,0,2,Spain
+2024-09-14,Brighton,Ipswich,0,0,England
+2024-09-14,Mallorca,Villarreal,1,2,Spain
+2024-09-15,Girona,Barcelona,1,4,Spain
+2024-09-15,Celta,Valladolid,3,1,Spain
+2024-09-15,Wolves,Newcastle,1,2,England
+2024-09-15,Ath Madrid,Valencia,3,0,Spain
+2024-09-15,Las Palmas,Ath Bilbao,2,3,Spain
+2024-09-15,Tottenham,Arsenal,0,1,England
+2024-09-16,Vallecano,Osasuna,3,1,Spain
+2024-09-17,Mallorca,Sociedad,1,0,Spain
+2024-09-18,Betis,Getafe,2,1,Spain
+2024-09-19,Leganes,Ath Bilbao,0,2,Spain
+2024-09-20,Alaves,Sevilla,2,1,Spain
+2024-09-21,Southampton,Ipswich,1,1,England
+2024-09-21,West Ham,Chelsea,0,3,England
+2024-09-21,Crystal Palace,Man United,0,0,England
+2024-09-21,Liverpool,Bournemouth,3,0,England
+2024-09-21,Valencia,Girona,2,0,Spain
+2024-09-21,Osasuna,Las Palmas,2,1,Spain
+2024-09-21,Leicester,Everton,1,1,England
+2024-09-21,Real Madrid,Espanol,4,1,Spain
+2024-09-21,Aston Villa,Wolves,3,1,England
+2024-09-21,Valladolid,Sociedad,0,0,Spain
+2024-09-21,Fulham,Newcastle,3,1,England
+2024-09-21,Tottenham,Brentford,3,1,England
+2024-09-22,Ath Bilbao,Celta,3,1,Spain
+2024-09-22,Getafe,Leganes,1,1,Spain
+2024-09-22,Villarreal,Barcelona,1,5,Spain
+2024-09-22,Vallecano,Ath Madrid,1,1,Spain
+2024-09-22,Brighton,Nott'm Forest,2,2,England
+2024-09-22,Man City,Arsenal,2,2,England
+2024-09-23,Betis,Mallorca,1,2,Spain
+2024-09-24,Valencia,Osasuna,0,0,Spain
+2024-09-24,Real Madrid,Alaves,3,2,Spain
+2024-09-24,Sevilla,Valladolid,2,1,Spain
+2024-09-25,Girona,Vallecano,0,0,Spain
+2024-09-25,Barcelona,Getafe,1,0,Spain
+2024-09-26,Espanol,Villarreal,1,2,Spain
+2024-09-26,Las Palmas,Betis,1,1,Spain
+2024-09-26,Celta,Ath Madrid,0,1,Spain
+2024-09-27,Valladolid,Mallorca,1,2,Spain
+2024-09-28,Osasuna,Barcelona,4,2,Spain
+2024-09-28,Getafe,Alaves,2,0,Spain
+2024-09-28,Newcastle,Man City,1,1,England
+2024-09-28,Sociedad,Valencia,3,0,Spain
+2024-09-28,Wolves,Liverpool,1,2,England
+2024-09-28,Everton,Crystal Palace,2,1,England
+2024-09-28,Brentford,West Ham,1,1,England
+2024-09-28,Arsenal,Leicester,4,2,England
+2024-09-28,Nott'm Forest,Fulham,0,1,England
+2024-09-28,Chelsea,Brighton,4,2,England
+2024-09-28,Vallecano,Leganes,1,1,Spain
+2024-09-29,Man United,Tottenham,0,3,England
+2024-09-29,Betis,Espanol,1,0,Spain
+2024-09-29,Celta,Girona,1,1,Spain
+2024-09-29,Ath Madrid,Real Madrid,1,1,Spain
+2024-09-29,Ipswich,Aston Villa,2,2,England
+2024-09-29,Ath Bilbao,Sevilla,1,1,Spain
+2024-09-30,Villarreal,Las Palmas,3,1,Spain
+2024-09-30,Bournemouth,Southampton,3,1,England
+2024-10-04,Leganes,Valencia,0,0,Spain
+2024-10-05,Brentford,Wolves,5,3,England
+2024-10-05,Man City,Fulham,3,2,England
+2024-10-05,Las Palmas,Celta,0,1,Spain
+2024-10-05,Leicester,Bournemouth,1,0,England
+2024-10-05,West Ham,Ipswich,4,1,England
+2024-10-05,Getafe,Osasuna,1,1,Spain
+2024-10-05,Arsenal,Southampton,3,1,England
+2024-10-05,Crystal Palace,Liverpool,0,1,England
+2024-10-05,Espanol,Mallorca,2,1,Spain
+2024-10-05,Valladolid,Vallecano,1,2,Spain
+2024-10-05,Real Madrid,Villarreal,2,0,Spain
+2024-10-05,Everton,Newcastle,0,0,England
+2024-10-06,Chelsea,Nott'm Forest,1,1,England
+2024-10-06,Aston Villa,Man United,0,0,England
+2024-10-06,Alaves,Barcelona,0,3,Spain
+2024-10-06,Sevilla,Betis,1,0,Spain
+2024-10-06,Brighton,Tottenham,3,2,England
+2024-10-06,Girona,Ath Bilbao,2,1,Spain
+2024-10-06,Sociedad,Ath Madrid,1,1,Spain
+2024-10-18,Alaves,Valladolid,2,3,Spain
+2024-10-19,Ipswich,Everton,0,2,England
+2024-10-19,Tottenham,West Ham,4,1,England
+2024-10-19,Ath Bilbao,Espanol,4,1,Spain
+2024-10-19,Celta,Real Madrid,1,2,Spain
+2024-10-19,Newcastle,Brighton,0,1,England
+2024-10-19,Bournemouth,Arsenal,2,0,England
+2024-10-19,Southampton,Leicester,2,3,England
+2024-10-19,Man United,Brentford,2,1,England
+2024-10-19,Osasuna,Betis,1,2,Spain
+2024-10-19,Fulham,Aston Villa,1,3,England
+2024-10-19,Girona,Sociedad,0,1,Spain
+2024-10-20,Mallorca,Vallecano,1,0,Spain
+2024-10-20,Barcelona,Sevilla,5,1,Spain
+2024-10-20,Wolves,Man City,1,2,England
+2024-10-20,Liverpool,Chelsea,2,1,England
+2024-10-20,Ath Madrid,Leganes,3,1,Spain
+2024-10-20,Villarreal,Getafe,1,1,Spain
+2024-10-21,Valencia,Las Palmas,2,3,Spain
+2024-10-21,Nott'm Forest,Crystal Palace,1,0,England
+2024-10-25,Espanol,Sevilla,0,2,Spain
+2024-10-25,Leicester,Nott'm Forest,1,3,England
+2024-10-26,Valladolid,Villarreal,1,2,Spain
+2024-10-26,Brighton,Wolves,2,2,England
+2024-10-26,Everton,Fulham,1,1,England
+2024-10-26,Real Madrid,Barcelona,0,4,Spain
+2024-10-26,Las Palmas,Girona,1,0,Spain
+2024-10-26,Brentford,Ipswich,4,3,England
+2024-10-26,Aston Villa,Bournemouth,1,1,England
+2024-10-26,Vallecano,Alaves,1,0,Spain
+2024-10-26,Man City,Southampton,1,0,England
+2024-10-27,Betis,Ath Madrid,1,0,Spain
+2024-10-27,Chelsea,Newcastle,2,1,England
+2024-10-27,Getafe,Valencia,1,1,Spain
+2024-10-27,Arsenal,Liverpool,2,2,England
+2024-10-27,Crystal Palace,Tottenham,1,0,England
+2024-10-27,Leganes,Celta,3,0,Spain
+2024-10-27,Sociedad,Osasuna,0,2,Spain
+2024-10-27,West Ham,Man United,2,1,England
+2024-10-28,Mallorca,Ath Bilbao,0,0,Spain
+2024-11-01,Alaves,Mallorca,1,0,Spain
+2024-11-02,Nott'm Forest,West Ham,3,0,England
+2024-11-02,Newcastle,Arsenal,1,0,England
+2024-11-02,Bournemouth,Man City,2,1,England
+2024-11-02,Southampton,Everton,1,0,England
+2024-11-02,Girona,Leganes,4,3,Spain
+2024-11-02,Wolves,Crystal Palace,2,2,England
+2024-11-02,Osasuna,Valladolid,1,0,Spain
+2024-11-02,Liverpool,Brighton,2,1,England
+2024-11-02,Ipswich,Leicester,1,1,England
+2024-11-03,Ath Bilbao,Betis,1,1,Spain
+2024-11-03,Tottenham,Aston Villa,4,1,England
+2024-11-03,Man United,Chelsea,1,1,England
+2024-11-03,Sevilla,Sociedad,0,2,Spain
+2024-11-03,Barcelona,Espanol,3,1,Spain
+2024-11-03,Ath Madrid,Las Palmas,2,0,Spain
+2024-11-04,Celta,Getafe,1,0,Spain
+2024-11-04,Fulham,Brentford,2,1,England
+2024-11-08,Vallecano,Las Palmas,1,3,Spain
+2024-11-09,Liverpool,Aston Villa,2,0,England
+2024-11-09,Crystal Palace,Fulham,0,2,England
+2024-11-09,Real Madrid,Osasuna,4,0,Spain
+2024-11-09,Wolves,Southampton,2,0,England
+2024-11-09,Villarreal,Alaves,3,0,Spain
+2024-11-09,Leganes,Sevilla,1,0,Spain
+2024-11-09,Brighton,Man City,2,1,England
+2024-11-09,West Ham,Everton,0,0,England
+2024-11-09,Brentford,Bournemouth,3,2,England
+2024-11-10,Tottenham,Ipswich,1,2,England
+2024-11-10,Nott'm Forest,Newcastle,1,3,England
+2024-11-10,Mallorca,Ath Madrid,0,1,Spain
+2024-11-10,Getafe,Girona,0,1,Spain
+2024-11-10,Man United,Leicester,3,0,England
+2024-11-10,Sociedad,Barcelona,1,0,Spain
+2024-11-10,Chelsea,Arsenal,1,1,England
+2024-11-10,Valladolid,Ath Bilbao,1,1,Spain
+2024-11-10,Betis,Celta,2,2,Spain
+2024-11-22,Getafe,Valladolid,2,0,Spain
+2024-11-23,Ath Madrid,Alaves,2,1,Spain
+2024-11-23,Fulham,Wolves,1,4,England
+2024-11-23,Leicester,Chelsea,1,2,England
+2024-11-23,Celta,Barcelona,2,2,Spain
+2024-11-23,Valencia,Betis,4,2,Spain
+2024-11-23,Girona,Espanol,4,1,Spain
+2024-11-23,Las Palmas,Mallorca,2,3,Spain
+2024-11-23,Arsenal,Nott'm Forest,3,0,England
+2024-11-23,Man City,Tottenham,0,4,England
+2024-11-23,Bournemouth,Brighton,1,2,England
+2024-11-23,Everton,Brentford,0,0,England
+2024-11-23,Aston Villa,Crystal Palace,2,2,England
+2024-11-24,Southampton,Liverpool,2,3,England
+2024-11-24,Ath Bilbao,Sociedad,1,0,Spain
+2024-11-24,Osasuna,Villarreal,2,2,Spain
+2024-11-24,Leganes,Real Madrid,0,3,Spain
+2024-11-24,Ipswich,Man United,1,1,England
+2024-11-24,Sevilla,Vallecano,1,0,Spain
+2024-11-25,Newcastle,West Ham,0,2,England
+2024-11-29,Mallorca,Valencia,2,1,Spain
+2024-11-29,Brighton,Southampton,1,1,England
+2024-11-30,Espanol,Celta,3,1,Spain
+2024-11-30,West Ham,Arsenal,2,5,England
+2024-11-30,Valladolid,Ath Madrid,0,5,Spain
+2024-11-30,Barcelona,Las Palmas,1,2,Spain
+2024-11-30,Wolves,Bournemouth,2,4,England
+2024-11-30,Crystal Palace,Newcastle,1,1,England
+2024-11-30,Nott'm Forest,Ipswich,1,0,England
+2024-11-30,Alaves,Leganes,1,1,Spain
+2024-11-30,Brentford,Leicester,4,1,England
+2024-12-01,Real Madrid,Getafe,2,0,Spain
+2024-12-01,Sociedad,Betis,2,0,Spain
+2024-12-01,Villarreal,Girona,2,2,Spain
+2024-12-01,Tottenham,Fulham,1,1,England
+2024-12-01,Chelsea,Aston Villa,3,0,England
+2024-12-01,Vallecano,Ath Bilbao,1,2,Spain
+2024-12-01,Liverpool,Man City,2,0,England
+2024-12-01,Man United,Everton,4,0,England
+2024-12-02,Sevilla,Osasuna,1,1,Spain
+2024-12-03,Leicester,West Ham,3,1,England
+2024-12-03,Mallorca,Barcelona,1,5,Spain
+2024-12-03,Ipswich,Crystal Palace,0,1,England
+2024-12-04,Ath Bilbao,Real Madrid,2,1,Spain
+2024-12-04,Everton,Wolves,4,0,England
+2024-12-04,Aston Villa,Brentford,3,1,England
+2024-12-04,Arsenal,Man United,2,0,England
+2024-12-04,Newcastle,Liverpool,3,3,England
+2024-12-04,Southampton,Chelsea,1,5,England
+2024-12-04,Man City,Nott'm Forest,3,0,England
+2024-12-05,Fulham,Brighton,3,1,England
+2024-12-05,Bournemouth,Tottenham,1,0,England
+2024-12-06,Celta,Mallorca,2,0,Spain
+2024-12-07,Betis,Barcelona,2,2,Spain
+2024-12-07,Crystal Palace,Man City,2,2,England
+2024-12-07,Aston Villa,Southampton,1,0,England
+2024-12-07,Man United,Nott'm Forest,2,3,England
+2024-12-07,Las Palmas,Valladolid,2,1,Spain
+2024-12-07,Brentford,Newcastle,4,2,England
+2024-12-07,Valencia,Vallecano,0,1,Spain
+2024-12-07,Girona,Real Madrid,0,3,Spain
+2024-12-08,Fulham,Arsenal,1,1,England
+2024-12-08,Ipswich,Bournemouth,1,2,England
+2024-12-08,Leganes,Sociedad,0,3,Spain
+2024-12-08,Osasuna,Alaves,2,2,Spain
+2024-12-08,Ath Madrid,Sevilla,4,3,Spain
+2024-12-08,Ath Bilbao,Villarreal,2,0,Spain
+2024-12-08,Leicester,Brighton,2,2,England
+2024-12-08,Tottenham,Chelsea,3,4,England
+2024-12-09,Getafe,Espanol,1,0,Spain
+2024-12-09,West Ham,Wolves,2,1,England
+2024-12-13,Valladolid,Valencia,1,0,Spain
+2024-12-14,Nott'm Forest,Aston Villa,2,1,England
+2024-12-14,Mallorca,Girona,2,1,Spain
+2024-12-14,Arsenal,Everton,0,0,England
+2024-12-14,Newcastle,Leicester,4,0,England
+2024-12-14,Liverpool,Fulham,2,2,England
+2024-12-14,Wolves,Ipswich,1,2,England
+2024-12-14,Vallecano,Real Madrid,3,3,Spain
+2024-12-14,Espanol,Osasuna,0,0,Spain
+2024-12-14,Sevilla,Celta,1,0,Spain
+2024-12-15,Southampton,Tottenham,0,5,England
+2024-12-15,Barcelona,Leganes,0,1,Spain
+2024-12-15,Sociedad,Las Palmas,0,0,Spain
+2024-12-15,Man City,Man United,1,2,England
+2024-12-15,Ath Madrid,Getafe,1,0,Spain
+2024-12-15,Chelsea,Brentford,2,1,England
+2024-12-15,Brighton,Crystal Palace,1,3,England
+2024-12-15,Alaves,Ath Bilbao,1,1,Spain
+2024-12-15,Villarreal,Betis,1,2,Spain
+2024-12-16,Bournemouth,West Ham,1,1,England
+2024-12-18,Villarreal,Vallecano,1,1,Spain
+2024-12-18,Espanol,Valencia,1,1,Spain
+2024-12-20,Girona,Valladolid,3,0,Spain
+2024-12-21,Crystal Palace,Arsenal,1,5,England
+2024-12-21,Barcelona,Ath Madrid,1,2,Spain
+2024-12-21,West Ham,Brighton,1,1,England
+2024-12-21,Aston Villa,Man City,2,1,England
+2024-12-21,Brentford,Nott'm Forest,0,2,England
+2024-12-21,Celta,Sociedad,2,0,Spain
+2024-12-21,Osasuna,Ath Bilbao,1,2,Spain
+2024-12-21,Getafe,Mallorca,0,1,Spain
+2024-12-21,Ipswich,Newcastle,0,4,England
+2024-12-22,Man United,Bournemouth,0,3,England
+2024-12-22,Tottenham,Liverpool,3,6,England
+2024-12-22,Betis,Vallecano,1,1,Spain
+2024-12-22,Las Palmas,Espanol,1,0,Spain
+2024-12-22,Real Madrid,Sevilla,4,2,Spain
+2024-12-22,Everton,Chelsea,0,0,England
+2024-12-22,Leganes,Villarreal,2,5,Spain
+2024-12-22,Leicester,Wolves,0,3,England
+2024-12-22,Valencia,Alaves,2,2,Spain
+2024-12-22,Fulham,Southampton,0,0,England
+2024-12-26,Wolves,Man United,2,0,England
+2024-12-26,Bournemouth,Crystal Palace,0,0,England
+2024-12-26,Liverpool,Leicester,3,1,England
+2024-12-26,Chelsea,Fulham,1,2,England
+2024-12-26,Nott'm Forest,Tottenham,1,0,England
+2024-12-26,Southampton,West Ham,0,1,England
+2024-12-26,Newcastle,Aston Villa,3,0,England
+2024-12-26,Man City,Everton,1,1,England
+2024-12-27,Arsenal,Ipswich,1,0,England
+2024-12-27,Brighton,Brentford,0,0,England
+2024-12-29,Leicester,Man City,0,2,England
+2024-12-29,Crystal Palace,Southampton,2,1,England
+2024-12-29,Fulham,Bournemouth,2,2,England
+2024-12-29,Tottenham,Wolves,2,2,England
+2024-12-29,West Ham,Liverpool,0,5,England
+2024-12-29,Everton,Nott'm Forest,0,2,England
+2024-12-30,Man United,Newcastle,0,2,England
+2024-12-30,Aston Villa,Brighton,2,2,England
+2024-12-30,Ipswich,Chelsea,2,0,England
+2025-01-01,Brentford,Arsenal,1,3,England
+2025-01-03,Valencia,Real Madrid,1,2,Spain
+2025-01-04,Man City,West Ham,4,1,England
+2025-01-04,Tottenham,Newcastle,1,2,England
+2025-01-04,Brighton,Arsenal,1,1,England
+2025-01-04,Aston Villa,Leicester,2,1,England
+2025-01-04,Bournemouth,Everton,1,0,England
+2025-01-04,Southampton,Brentford,0,5,England
+2025-01-04,Crystal Palace,Chelsea,1,1,England
+2025-01-05,Liverpool,Man United,2,2,England
+2025-01-05,Fulham,Ipswich,2,2,England
+2025-01-06,Wolves,Nott'm Forest,0,3,England
+2025-01-10,Vallecano,Celta,2,1,Spain
+2025-01-11,Alaves,Girona,0,1,Spain
+2025-01-11,Valladolid,Betis,1,0,Spain
+2025-01-11,Sevilla,Valencia,1,1,Spain
+2025-01-11,Espanol,Leganes,1,1,Spain
+2025-01-12,Ath Madrid,Osasuna,1,0,Spain
+2025-01-12,Las Palmas,Getafe,1,2,Spain
+2025-01-13,Sociedad,Villarreal,1,0,Spain
+2025-01-14,Brentford,Man City,2,2,England
+2025-01-14,West Ham,Fulham,3,2,England
+2025-01-14,Nott'm Forest,Liverpool,1,1,England
+2025-01-14,Chelsea,Bournemouth,2,2,England
+2025-01-15,Newcastle,Wolves,3,0,England
+2025-01-15,Everton,Aston Villa,0,1,England
+2025-01-15,Arsenal,Tottenham,2,1,England
+2025-01-15,Leicester,Crystal Palace,0,2,England
+2025-01-16,Ipswich,Brighton,0,2,England
+2025-01-16,Man United,Southampton,3,1,England
+2025-01-17,Espanol,Valladolid,2,1,Spain
+2025-01-18,Getafe,Barcelona,1,1,Spain
+2025-01-18,Newcastle,Bournemouth,1,4,England
+2025-01-18,Leganes,Ath Madrid,1,0,Spain
+2025-01-18,Betis,Alaves,1,3,Spain
+2025-01-18,Girona,Sevilla,1,2,Spain
+2025-01-18,West Ham,Crystal Palace,0,2,England
+2025-01-18,Arsenal,Aston Villa,2,2,England
+2025-01-18,Brentford,Liverpool,0,2,England
+2025-01-18,Leicester,Fulham,0,2,England
+2025-01-19,Valencia,Sociedad,1,0,Spain
+2025-01-19,Osasuna,Vallecano,1,1,Spain
+2025-01-19,Man United,Brighton,1,3,England
+2025-01-19,Nott'm Forest,Southampton,3,2,England
+2025-01-19,Real Madrid,Las Palmas,4,1,Spain
+2025-01-19,Ipswich,Man City,0,6,England
+2025-01-19,Celta,Ath Bilbao,1,2,Spain
+2025-01-19,Everton,Tottenham,3,2,England
+2025-01-20,Chelsea,Wolves,3,1,England
+2025-01-20,Villarreal,Mallorca,4,0,Spain
+2025-01-24,Las Palmas,Osasuna,1,1,Spain
+2025-01-25,Southampton,Newcastle,1,3,England
+2025-01-25,Mallorca,Betis,0,1,Spain
+2025-01-25,Valladolid,Real Madrid,0,3,Spain
+2025-01-25,Bournemouth,Nott'm Forest,5,0,England
+2025-01-25,Liverpool,Ipswich,4,1,England
+2025-01-25,Man City,Chelsea,3,1,England
+2025-01-25,Sevilla,Espanol,1,1,Spain
+2025-01-25,Brighton,Everton,0,1,England
+2025-01-25,Ath Madrid,Villarreal,1,1,Spain
+2025-01-25,Wolves,Arsenal,0,1,England
+2025-01-26,Vallecano,Girona,2,1,Spain
+2025-01-26,Crystal Palace,Brentford,1,2,England
+2025-01-26,Ath Bilbao,Leganes,0,0,Spain
+2025-01-26,Barcelona,Valencia,7,1,Spain
+2025-01-26,Sociedad,Getafe,0,3,Spain
+2025-01-26,Aston Villa,West Ham,1,1,England
+2025-01-26,Tottenham,Leicester,1,2,England
+2025-01-26,Fulham,Man United,0,1,England
+2025-01-27,Alaves,Celta,1,1,Spain
+2025-01-31,Leganes,Vallecano,0,1,Spain
+2025-02-01,Ath Madrid,Mallorca,2,0,Spain
+2025-02-01,Getafe,Sevilla,0,0,Spain
+2025-02-01,Wolves,Aston Villa,2,0,England
+2025-02-01,Nott'm Forest,Brighton,7,0,England
+2025-02-01,Bournemouth,Liverpool,0,2,England
+2025-02-01,Ipswich,Southampton,1,2,England
+2025-02-01,Villarreal,Valladolid,5,1,Spain
+2025-02-01,Espanol,Real Madrid,1,0,Spain
+2025-02-01,Newcastle,Fulham,1,2,England
+2025-02-01,Everton,Leicester,4,0,England
+2025-02-02,Betis,Ath Bilbao,2,2,Spain
+2025-02-02,Valencia,Celta,2,1,Spain
+2025-02-02,Arsenal,Man City,5,1,England
+2025-02-02,Brentford,Tottenham,0,2,England
+2025-02-02,Man United,Crystal Palace,0,2,England
+2025-02-02,Osasuna,Sociedad,2,1,Spain
+2025-02-02,Barcelona,Alaves,1,0,Spain
+2025-02-03,Girona,Las Palmas,2,1,Spain
+2025-02-03,Chelsea,West Ham,2,1,England
+2025-02-07,Vallecano,Valladolid,1,0,Spain
+2025-02-08,Ath Bilbao,Girona,3,0,Spain
+2025-02-08,Celta,Betis,3,2,Spain
+2025-02-08,Las Palmas,Villarreal,1,2,Spain
+2025-02-08,Real Madrid,Ath Madrid,1,1,Spain
+2025-02-09,Valencia,Leganes,2,0,Spain
+2025-02-09,Sevilla,Barcelona,1,4,Spain
+2025-02-09,Sociedad,Espanol,2,1,Spain
+2025-02-09,Alaves,Getafe,0,1,Spain
+2025-02-10,Mallorca,Osasuna,1,1,Spain
+2025-02-12,Everton,Liverpool,2,2,England
+2025-02-14,Brighton,Chelsea,3,0,England
+2025-02-14,Girona,Getafe,1,2,Spain
+2025-02-15,Fulham,Nott'm Forest,2,1,England
+2025-02-15,Man City,Newcastle,4,0,England
+2025-02-15,Aston Villa,Ipswich,1,1,England
+2025-02-15,Leicester,Arsenal,0,2,England
+2025-02-15,Osasuna,Real Madrid,1,1,Spain
+2025-02-15,Villarreal,Valencia,1,1,Spain
+2025-02-15,Leganes,Alaves,3,3,Spain
+2025-02-15,Crystal Palace,Everton,1,2,England
+2025-02-15,Southampton,Bournemouth,1,3,England
+2025-02-15,West Ham,Brentford,0,1,England
+2025-02-15,Ath Madrid,Celta,1,1,Spain
+2025-02-16,Espanol,Ath Bilbao,1,1,Spain
+2025-02-16,Betis,Sociedad,3,0,Spain
+2025-02-16,Mallorca,Las Palmas,3,1,Spain
+2025-02-16,Tottenham,Man United,1,0,England
+2025-02-16,Liverpool,Wolves,2,1,England
+2025-02-16,Valladolid,Sevilla,0,4,Spain
+2025-02-17,Barcelona,Vallecano,1,0,Spain
+2025-02-19,Aston Villa,Liverpool,2,2,England
+2025-02-21,Leicester,Brentford,0,4,England
+2025-02-21,Celta,Osasuna,1,0,Spain
+2025-02-22,Fulham,Crystal Palace,0,2,England
+2025-02-22,Las Palmas,Barcelona,0,2,Spain
+2025-02-22,Vallecano,Villarreal,0,1,Spain
+2025-02-22,Arsenal,West Ham,0,1,England
+2025-02-22,Alaves,Espanol,0,1,Spain
+2025-02-22,Southampton,Brighton,0,4,England
+2025-02-22,Aston Villa,Chelsea,2,1,England
+2025-02-22,Valencia,Ath Madrid,0,3,Spain
+2025-02-22,Bournemouth,Wolves,0,1,England
+2025-02-22,Everton,Man United,2,2,England
+2025-02-22,Ipswich,Tottenham,1,4,England
+2025-02-23,Sociedad,Leganes,3,0,Spain
+2025-02-23,Newcastle,Nott'm Forest,4,3,England
+2025-02-23,Man City,Liverpool,0,2,England
+2025-02-23,Real Madrid,Girona,2,0,Spain
+2025-02-23,Ath Bilbao,Valladolid,7,1,Spain
+2025-02-23,Getafe,Betis,1,2,Spain
+2025-02-24,Sevilla,Mallorca,1,1,Spain
+2025-02-25,Wolves,Fulham,1,2,England
+2025-02-25,Crystal Palace,Aston Villa,4,1,England
+2025-02-25,Brighton,Bournemouth,2,1,England
+2025-02-25,Chelsea,Southampton,4,0,England
+2025-02-26,Man United,Ipswich,3,2,England
+2025-02-26,Tottenham,Man City,0,1,England
+2025-02-26,Nott'm Forest,Arsenal,0,0,England
+2025-02-26,Brentford,Everton,1,1,England
+2025-02-26,Liverpool,Newcastle,2,0,England
+2025-02-27,West Ham,Leicester,2,0,England
+2025-02-28,Valladolid,Las Palmas,1,1,Spain
+2025-03-01,Ath Madrid,Ath Bilbao,1,0,Spain
+2025-03-01,Betis,Real Madrid,2,1,Spain
+2025-03-01,Girona,Celta,2,2,Spain
+2025-03-01,Vallecano,Sevilla,1,1,Spain
+2025-03-02,Barcelona,Sociedad,4,0,Spain
+2025-03-02,Mallorca,Alaves,1,1,Spain
+2025-03-02,Osasuna,Valencia,3,3,Spain
+2025-03-02,Leganes,Getafe,1,0,Spain
+2025-03-08,Crystal Palace,Ipswich,1,0,England
+2025-03-08,Liverpool,Southampton,3,1,England
+2025-03-08,Wolves,Everton,1,1,England
+2025-03-08,Valencia,Valladolid,2,1,Spain
+2025-03-08,Celta,Leganes,2,1,Spain
+2025-03-08,Brighton,Fulham,2,1,England
+2025-03-08,Nott'm Forest,Man City,1,0,England
+2025-03-08,Alaves,Villarreal,1,0,Spain
+2025-03-08,Brentford,Aston Villa,0,1,England
+2025-03-09,Ath Bilbao,Mallorca,1,1,Spain
+2025-03-09,Real Madrid,Vallecano,2,1,Spain
+2025-03-09,Sociedad,Sevilla,0,1,Spain
+2025-03-09,Man United,Arsenal,1,1,England
+2025-03-09,Getafe,Ath Madrid,2,1,Spain
+2025-03-09,Tottenham,Bournemouth,2,2,England
+2025-03-09,Betis,Las Palmas,1,0,Spain
+2025-03-09,Chelsea,Leicester,1,0,England
+2025-03-10,West Ham,Newcastle,0,1,England
+2025-03-10,Espanol,Girona,1,1,Spain
+2025-03-14,Las Palmas,Alaves,2,2,Spain
+2025-03-15,Valladolid,Celta,0,1,Spain
+2025-03-15,Everton,West Ham,1,1,England
+2025-03-15,Ipswich,Nott'm Forest,2,4,England
+2025-03-15,Southampton,Wolves,1,2,England
+2025-03-15,Villarreal,Real Madrid,1,2,Spain
+2025-03-15,Mallorca,Espanol,2,1,Spain
+2025-03-15,Bournemouth,Brentford,1,2,England
+2025-03-15,Girona,Valencia,1,1,Spain
+2025-03-15,Man City,Brighton,2,2,England
+2025-03-16,Sevilla,Ath Bilbao,0,1,Spain
+2025-03-16,Leicester,Man United,0,3,England
+2025-03-16,Vallecano,Sociedad,2,2,Spain
+2025-03-16,Ath Madrid,Barcelona,2,4,Spain
+2025-03-16,Osasuna,Getafe,1,2,Spain
+2025-03-16,Leganes,Betis,2,3,Spain
+2025-03-16,Fulham,Tottenham,2,0,England
+2025-03-16,Arsenal,Chelsea,1,0,England
+2025-03-27,Barcelona,Osasuna,3,0,Spain
+2025-03-29,Real Madrid,Leganes,3,2,Spain
+2025-03-29,Espanol,Ath Madrid,1,1,Spain
+2025-03-29,Alaves,Vallecano,0,2,Spain
+2025-03-29,Sociedad,Valladolid,2,1,Spain
+2025-03-30,Ath Bilbao,Osasuna,0,0,Spain
+2025-03-30,Getafe,Villarreal,1,2,Spain
+2025-03-30,Betis,Sevilla,2,1,Spain
+2025-03-30,Barcelona,Girona,4,1,Spain
+2025-03-30,Valencia,Mallorca,1,0,Spain
+2025-03-31,Celta,Las Palmas,1,1,Spain
+2025-04-01,Wolves,West Ham,1,0,England
+2025-04-01,Arsenal,Fulham,2,1,England
+2025-04-01,Nott'm Forest,Man United,1,0,England
+2025-04-02,Newcastle,Brentford,2,1,England
+2025-04-02,Liverpool,Everton,1,0,England
+2025-04-02,Man City,Leicester,2,0,England
+2025-04-02,Brighton,Aston Villa,0,3,England
+2025-04-02,Bournemouth,Ipswich,1,2,England
+2025-04-02,Southampton,Crystal Palace,1,1,England
+2025-04-03,Chelsea,Tottenham,1,0,England
+2025-04-04,Vallecano,Espanol,0,4,Spain
+2025-04-05,Girona,Alaves,0,1,Spain
+2025-04-05,West Ham,Bournemouth,2,2,England
+2025-04-05,Barcelona,Betis,1,1,Spain
+2025-04-05,Aston Villa,Nott'm Forest,2,1,England
+2025-04-05,Ipswich,Wolves,1,2,England
+2025-04-05,Crystal Palace,Brighton,2,1,England
+2025-04-05,Real Madrid,Valencia,1,2,Spain
+2025-04-05,Mallorca,Celta,1,2,Spain
+2025-04-05,Everton,Arsenal,1,1,England
+2025-04-06,Villarreal,Ath Bilbao,0,0,Spain
+2025-04-06,Las Palmas,Sociedad,1,3,Spain
+2025-04-06,Tottenham,Southampton,3,1,England
+2025-04-06,Valladolid,Getafe,0,4,Spain
+2025-04-06,Sevilla,Ath Madrid,1,2,Spain
+2025-04-06,Man United,Man City,0,0,England
+2025-04-06,Fulham,Liverpool,3,2,England
+2025-04-06,Brentford,Chelsea,0,0,England
+2025-04-07,Leicester,Newcastle,0,3,England
+2025-04-07,Leganes,Osasuna,1,1,Spain
+2025-04-11,Valencia,Sevilla,1,0,Spain
+2025-04-12,Celta,Espanol,0,2,Spain
+2025-04-12,Brighton,Leicester,2,2,England
+2025-04-12,Man City,Crystal Palace,5,2,England
+2025-04-12,Southampton,Aston Villa,0,3,England
+2025-04-12,Nott'm Forest,Everton,0,1,England
+2025-04-12,Sociedad,Mallorca,0,2,Spain
+2025-04-12,Arsenal,Brentford,1,1,England
+2025-04-12,Leganes,Barcelona,0,1,Spain
+2025-04-12,Getafe,Las Palmas,1,3,Spain
+2025-04-13,Liverpool,West Ham,2,1,England
+2025-04-13,Newcastle,Man United,4,1,England
+2025-04-13,Osasuna,Girona,2,1,Spain
+2025-04-13,Chelsea,Ipswich,2,2,England
+2025-04-13,Betis,Villarreal,1,2,Spain
+2025-04-13,Wolves,Tottenham,4,2,England
+2025-04-13,Ath Bilbao,Vallecano,3,1,Spain
+2025-04-13,Alaves,Real Madrid,0,1,Spain
+2025-04-14,Ath Madrid,Valladolid,4,2,Spain
+2025-04-14,Bournemouth,Fulham,1,0,England
+2025-04-16,Newcastle,Crystal Palace,5,0,England
+2025-04-18,Espanol,Getafe,1,0,Spain
+2025-04-19,Everton,Man City,0,2,England
+2025-04-19,Las Palmas,Ath Madrid,1,0,Spain
+2025-04-19,Mallorca,Leganes,0,0,Spain
+2025-04-19,Aston Villa,Newcastle,4,1,England
+2025-04-19,Vallecano,Valencia,1,1,Spain
+2025-04-19,West Ham,Southampton,1,1,England
+2025-04-19,Crystal Palace,Bournemouth,0,0,England
+2025-04-19,Barcelona,Celta,4,3,Spain
+2025-04-19,Brentford,Brighton,4,2,England
+2025-04-20,Valladolid,Osasuna,2,3,Spain
+2025-04-20,Sevilla,Alaves,1,1,Spain
+2025-04-20,Fulham,Chelsea,1,2,England
+2025-04-20,Real Madrid,Ath Bilbao,1,0,Spain
+2025-04-20,Ipswich,Arsenal,0,4,England
+2025-04-20,Leicester,Liverpool,0,1,England
+2025-04-20,Villarreal,Sociedad,2,2,Spain
+2025-04-20,Man United,Wolves,0,1,England
+2025-04-21,Tottenham,Nott'm Forest,1,2,England
+2025-04-21,Girona,Betis,1,3,Spain
+2025-04-22,Valencia,Espanol,1,1,Spain
+2025-04-22,Barcelona,Mallorca,1,0,Spain
+2025-04-22,Man City,Aston Villa,2,1,England
+2025-04-23,Getafe,Real Madrid,0,1,Spain
+2025-04-23,Celta,Villarreal,3,0,Spain
+2025-04-23,Ath Bilbao,Las Palmas,1,0,Spain
+2025-04-23,Alaves,Sociedad,1,0,Spain
+2025-04-23,Arsenal,Crystal Palace,2,2,England
+2025-04-24,Osasuna,Sevilla,1,0,Spain
+2025-04-24,Leganes,Girona,1,1,Spain
+2025-04-24,Ath Madrid,Vallecano,3,0,Spain
+2025-04-24,Betis,Valladolid,5,1,Spain
+2025-04-26,Brighton,West Ham,3,2,England
+2025-04-26,Newcastle,Ipswich,3,0,England
+2025-04-26,Chelsea,Everton,1,0,England
+2025-04-26,Southampton,Fulham,1,2,England
+2025-04-26,Wolves,Leicester,3,0,England
+2025-04-27,Bournemouth,Man United,1,1,England
+2025-04-27,Liverpool,Tottenham,5,1,England
+2025-04-27,Villarreal,Espanol,1,0,Spain
+2025-05-01,Nott'm Forest,Brentford,0,2,England
+2025-05-02,Vallecano,Getafe,1,0,Spain
+2025-05-02,Man City,Wolves,1,0,England
+2025-05-03,Valladolid,Barcelona,1,2,Spain
+2025-05-03,Leicester,Southampton,2,0,England
+2025-05-03,Las Palmas,Valencia,2,3,Spain
+2025-05-03,Everton,Ipswich,2,2,England
+2025-05-03,Villarreal,Osasuna,4,2,Spain
+2025-05-03,Aston Villa,Fulham,1,0,England
+2025-05-03,Arsenal,Bournemouth,1,2,England
+2025-05-03,Alaves,Ath Madrid,0,0,Spain
+2025-05-04,West Ham,Tottenham,1,1,England
+2025-05-04,Brighton,Newcastle,1,1,England
+2025-05-04,Espanol,Betis,1,2,Spain
+2025-05-04,Real Madrid,Celta,3,2,Spain
+2025-05-04,Sociedad,Ath Bilbao,0,0,Spain
+2025-05-04,Chelsea,Liverpool,3,1,England
+2025-05-04,Brentford,Man United,4,3,England
+2025-05-04,Sevilla,Leganes,2,2,Spain
+2025-05-05,Crystal Palace,Nott'm Forest,1,1,England
+2025-05-05,Girona,Mallorca,1,0,Spain
+2025-05-09,Las Palmas,Vallecano,0,1,Spain
+2025-05-10,Wolves,Brighton,0,2,England
+2025-05-10,Bournemouth,Aston Villa,0,1,England
+2025-05-10,Fulham,Everton,1,3,England
+2025-05-10,Girona,Villarreal,0,1,Spain
+2025-05-10,Southampton,Man City,0,0,England
+2025-05-10,Ipswich,Brentford,0,1,England
+2025-05-10,Valencia,Getafe,3,0,Spain
+2025-05-10,Mallorca,Valladolid,2,1,Spain
+2025-05-10,Celta,Sevilla,3,2,Spain
+2025-05-10,Ath Madrid,Sociedad,4,0,Spain
+2025-05-11,Newcastle,Chelsea,2,0,England
+2025-05-11,Tottenham,Crystal Palace,0,2,England
+2025-05-11,Barcelona,Real Madrid,4,3,Spain
+2025-05-11,Betis,Osasuna,1,1,Spain
+2025-05-11,Ath Bilbao,Alaves,1,0,Spain
+2025-05-11,Nott'm Forest,Leicester,2,2,England
+2025-05-11,Liverpool,Arsenal,2,2,England
+2025-05-11,Leganes,Espanol,3,2,Spain
+2025-05-11,Man United,West Ham,0,2,England
+2025-05-13,Sevilla,Las Palmas,1,0,Spain
+2025-05-13,Sociedad,Celta,0,1,Spain
+2025-05-13,Valladolid,Girona,0,1,Spain
+2025-05-14,Real Madrid,Mallorca,2,1,Spain
+2025-05-14,Alaves,Valencia,1,0,Spain
+2025-05-14,Villarreal,Leganes,3,0,Spain
+2025-05-15,Getafe,Ath Bilbao,0,2,Spain
+2025-05-15,Espanol,Barcelona,0,2,Spain
+2025-05-15,Osasuna,Ath Madrid,2,0,Spain
+2025-05-15,Vallecano,Betis,2,2,Spain
+2025-05-16,Aston Villa,Tottenham,2,0,England
+2025-05-16,Chelsea,Man United,1,0,England
+2025-05-18,Las Palmas,Leganes,0,1,Spain
+2025-05-18,West Ham,Nott'm Forest,1,2,England
+2025-05-18,Barcelona,Villarreal,2,3,Spain
+2025-05-18,Arsenal,Newcastle,1,0,England
+2025-05-18,Ath Madrid,Betis,4,1,Spain
+2025-05-18,Osasuna,Espanol,2,0,Spain
+2025-05-18,Mallorca,Getafe,1,2,Spain
+2025-05-18,Brentford,Fulham,2,3,England
+2025-05-18,Leicester,Ipswich,2,0,England
+2025-05-18,Everton,Southampton,2,0,England
+2025-05-18,Celta,Vallecano,1,2,Spain
+2025-05-18,Sevilla,Real Madrid,0,2,Spain
+2025-05-18,Valladolid,Alaves,0,1,Spain
+2025-05-18,Sociedad,Girona,3,2,Spain
+2025-05-18,Valencia,Ath Bilbao,0,1,Spain
+2025-05-19,Brighton,Liverpool,3,2,England
+2025-05-20,Crystal Palace,Wolves,4,2,England
+2025-05-20,Man City,Bournemouth,3,1,England
+2025-05-23,Betis,Valencia,1,1,Spain
+2025-05-24,Real Madrid,Sociedad,2,0,Spain
+2025-05-24,Vallecano,Mallorca,0,0,Spain
+2025-05-24,Leganes,Valladolid,3,0,Spain
+2025-05-24,Alaves,Osasuna,1,1,Spain
+2025-05-24,Getafe,Celta,1,2,Spain
+2025-05-24,Espanol,Las Palmas,2,0,Spain
+2025-05-25,Man United,Aston Villa,2,0,England
+2025-05-25,Ipswich,West Ham,1,3,England
+2025-05-25,Southampton,Arsenal,1,2,England
+2025-05-25,Ath Bilbao,Barcelona,0,3,Spain
+2025-05-25,Villarreal,Sevilla,4,2,Spain
+2025-05-25,Fulham,Man City,0,2,England
+2025-05-25,Bournemouth,Leicester,2,0,England
+2025-05-25,Wolves,Brentford,1,1,England
+2025-05-25,Tottenham,Brighton,1,4,England
+2025-05-25,Newcastle,Everton,0,1,England
+2025-05-25,Girona,Ath Madrid,0,4,Spain
+2025-05-25,Liverpool,Crystal Palace,1,1,England
+2025-05-25,Nott'm Forest,Chelsea,0,1,England

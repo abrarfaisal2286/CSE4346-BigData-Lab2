@@ -1,1 +1,4 @@
-classes/ *.class
+classes/
+classes2/
+classes3/
+*.class
